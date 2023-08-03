@@ -1,0 +1,11 @@
+* {
+    background-color: antiquewhite;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(28, 32, 32);
+    text-align: center;
+}
+
+ul li {
+    list-style: none;
+    text-align: center;
+}
